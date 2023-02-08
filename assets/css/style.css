@@ -1,0 +1,23 @@
+.bg-custom{
+	background-color: #6D8B74;
+	color:white;
+}
+
+.btn-custom{
+	background-color: #6D8B74;
+	color:white;
+}
+
+.btn-custom:hover{
+	background-color: #5F7161;
+	color:white;
+}
+
+.active-custom{
+	color: white;
+	background-color: #5F7161; 
+}
+
+.content{
+	padding: 20px;
+}
